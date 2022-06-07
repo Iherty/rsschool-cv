@@ -1,1 +1,1 @@
-https://Iherty.github.io/rsschool-cv/cv
+https://Iherty.github.io/rsschool-cv/
