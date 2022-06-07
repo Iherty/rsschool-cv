@@ -16,7 +16,6 @@
 * VS Code
 
 ## __Code examples:__
-### Convert boolean values to strings 'Yes' or 'No'.
 ```
 function checkAlive (health) {
         if (health <= 0) {
