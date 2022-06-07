@@ -2,7 +2,7 @@
 ![The image for the CV](/image/imageforcv.jpg)
 
 ## __Contact information:__
-#### __Email:__ power18002@gmail.com
+#### __Email:__ power1800w@gmail.com
 #### __Phone:__ +79235416635
 #### __Telegram:__ @SaglaiSan 
 
