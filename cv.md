@@ -1,5 +1,4 @@
 # __Saglai Sandanchik__
-![The image for the CV](/image/imageforcv.jpg)
 
 ## __Contact information:__
 #### __Email:__ power1800w@gmail.com
