@@ -1,6 +1,7 @@
 # __Saglai Sandanchik__
 
 ## __Contact information:__
+### __Discord:___ Saglai#5931
 #### __Email:__ power1800w@gmail.com
 #### __Phone:__ +79235416635
 #### __Telegram:__ @SaglaiSan 
