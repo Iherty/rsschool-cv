@@ -1,59 +1,92 @@
+html {
+  scroll-behavior: smooth; 
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
     margin: 0; padding: 0;
-
 }
 
 * {
     box-sizing: border-box;
   }
 
-  .container {
+.container {
     max-width: 1440px;
     margin: 0 auto;
     border: 1px solid lightblue;
   }
 
+#footer-container {
+  background: lavender;
+  padding: 20px 60px 20px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+}
 
-  nav {
+nav {
     padding: 5px;
+    background: lightgray;
   }
 
-  .nav-list {
+.nav-list {
     display: flex;
     justify-content: flex-end;;
     align-items: center;
     list-style: none;
   }
 
-  .nav-link {
+.nav-link {
     padding: 0 20px;
     line-height: 50px;
     color: black;
     transition: .3s;
   }
 
-  html {
-    scroll-behavior: smooth; 
-  }
-
 .li-item:not(:last-child) {
         margin-bottom: 8px;
     }
 
-.home-relative-position {
-    position: relative;
-    top: -640px;
-    left: 50%;
+#section-img {
+  background: green;
 }
 
-.footer {
-    background-color: rgb(74, 87, 103);
+#contacts {
+  background: pink;
 }
-.footer-link {
-    padding: 0 20px;
-    line-height: 50px;
-    color: white;
-    transition: .3s;
+
+#education {
+  background: floralwhite;
+}
+
+#home {
+  background: rebeccapurple;
+}
+
+#profile {
+  background: yellowgreen;
+}
+
+#skills {
+  background: green;
+}
+
+#code {
+  background: pink;
+}
+
+#courses {
+  background: floralwhite;
+}
+
+#languages {
+  background: rebeccapurple;
+}
+
+#projects {
+  background: paleturquoise;
 }
